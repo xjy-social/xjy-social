@@ -7,7 +7,7 @@
 
 <p>台灣：誠品、金石堂、博客來網路書店、機場等各大書店發售 | 香港/澳門：書店及旺角、尖沙咀、銅鑼灣、澳門—書報攤發售</p>
 
-<p><a href="http://shop.epochweekly.com/cn/">http://adao-tsai.github.io/20160522/20160720_auto-refresh.html</p>
+<p><a href="http://shop.epochweekly.com/cn/">http://xjy-social.github.io/xjy-social/index.html</p>
 
 
 <Script Language="JavaScript">
